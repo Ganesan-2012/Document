@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.body{width: 100% !important; height: 100%;}
+
+.banner{height: 500px; background-color: blue !important;}
+.box-1{height: 300px;width: 100%;}
+
+
